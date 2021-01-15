@@ -11,7 +11,7 @@ import { AuthService } from '../../services/auth.service';
 })
 export class HomePage {
 
-  creds : CredenciaisDTO = {
+  creds: CredenciaisDTO = {
     email: "",
     senha: ""
   };
